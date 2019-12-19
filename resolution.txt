@@ -2,4 +2,4 @@
 2. membuat database arkananta
 3. membuat aplikasi master data web based
 4. membuat aplikasi master data android based
-5. membuat startup sendiri
+5. membuat aplikasi paperless semua departemen
