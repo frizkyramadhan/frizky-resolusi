@@ -1,0 +1,4 @@
+1. menikah di tahun 2020
+2. membuat database arkananta
+3. membuat aplikasi master data web based
+4. membuat aplikasi master data android based
