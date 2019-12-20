@@ -9,3 +9,7 @@ rincian gedung:
 dari jam 10.00 - 15.00
 tamu undangan dipisah
 dekor sederhana ala timur tengah
+
+rincian catering:
+porsi 500 orang
+prasmanan, gudeg, kambing guling, bakso
