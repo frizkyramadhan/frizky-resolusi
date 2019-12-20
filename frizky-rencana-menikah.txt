@@ -4,3 +4,7 @@ souvenir  : buku-buku saku islami
 tidak ada musik
 tamu undangan dipisah antara laki-laki dan perempuan
 saat adzan harus break untuk sholat
+
+rincian catering
+porsi 500 orang
+prasmanan, gudeg, kambing guling, soto
