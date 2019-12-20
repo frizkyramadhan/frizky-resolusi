@@ -4,3 +4,8 @@ souvenir  : buku-buku saku islami
 tidak ada musik
 tamu undangan dipisah antara laki-laki dan perempuan
 saat adzan harus break untuk sholat
+
+rincian gedung:
+dari jam 10.00 - 15.00
+tamu undangan dipisah
+dekor sederhana ala timur tengah
