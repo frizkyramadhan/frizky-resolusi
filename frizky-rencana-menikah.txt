@@ -1,14 +1,14 @@
-gedung  : gedung kesenian
-catering  : sundari
+gedung  : rumah putri
+catering  : catering adiknya ibu
 souvenir  : buku-buku saku islami
 tidak ada musik
 tamu undangan dipisah antara laki-laki dan perempuan
 saat adzan harus break untuk sholat
 
-rincian gedung:
-dari jam 10.00 - 15.00
+rincian acara:
+dari jam 9.00 - selesai
 tamu undangan dipisah
-dekor sederhana ala timur tengah
+dekor sederhana
 
 rincian catering:
 porsi 500 orang
